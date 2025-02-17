@@ -1,0 +1,4 @@
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T18:28:01.882Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T18:28:01.887Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T18:28:02.478Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T18:28:02.578Z"}
