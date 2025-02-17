@@ -2,3 +2,81 @@
 {"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T18:28:01.887Z"}
 {"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T18:28:02.478Z"}
 {"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T18:28:02.578Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T18:44:42.591Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T18:44:42.597Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T18:44:43.231Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T18:44:43.915Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T18:47:58.025Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T18:49:48.711Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T18:49:48.716Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T18:49:49.519Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T18:49:49.609Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T18:50:17.498Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T19:08:24.286Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T19:08:24.289Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T19:08:24.887Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T19:08:24.980Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T19:11:51.337Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T19:11:51.340Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T19:11:52.054Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T19:11:52.139Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T19:12:44.310Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T19:12:44.313Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T19:12:45.196Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T19:12:45.349Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T19:18:25.816Z"}
+{"level":"info","message":"Sent HomeAdvisor lead to Discord","timestamp":"2025-02-17T19:18:26.600Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T19:24:44.250Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T19:24:44.253Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T19:24:45.503Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T19:24:45.587Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T19:25:12.162Z"}
+{"level":"info","message":"Sent Facet Inquiry lead to Discord","timestamp":"2025-02-17T19:25:13.100Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T20:20:08.810Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T20:20:08.813Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T20:20:09.833Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T20:20:10.024Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T20:20:42.969Z"}
+{"level":"info","message":"Sent Facet Inquiries lead to Discord","timestamp":"2025-02-17T20:20:43.444Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T20:24:21.685Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T20:24:21.687Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T20:24:22.259Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T20:24:22.350Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T20:26:15.764Z"}
+{"level":"info","message":"Sent HomeAdvisor lead to Discord","timestamp":"2025-02-17T20:26:16.745Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T20:26:55.628Z"}
+{"level":"info","message":"Sent Facet Inquiries lead to Discord","timestamp":"2025-02-17T20:26:56.067Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T20:29:36.690Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T20:29:36.693Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T20:29:37.234Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T20:29:37.309Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T20:30:42.464Z"}
+{"level":"info","message":"Sent Facet Inquiries lead to Discord","timestamp":"2025-02-17T20:30:43.262Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T20:32:26.505Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T20:32:26.508Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T20:32:27.450Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T20:32:27.532Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T20:33:00.200Z"}
+{"level":"info","message":"Sent Facet Inquiries lead to Discord","timestamp":"2025-02-17T20:33:00.910Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T20:35:30.262Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T20:35:30.265Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T20:35:31.219Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T20:35:31.303Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T20:35:49.585Z"}
+{"level":"info","message":"Sent HomeAdvisor lead to Discord","timestamp":"2025-02-17T20:35:50.118Z"}
+{"level":"info","message":"2 new emails received","timestamp":"2025-02-17T20:37:55.240Z"}
+{"level":"info","message":"Sent Facet Inquiries lead to Discord","timestamp":"2025-02-17T20:37:55.819Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T20:41:08.752Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T20:41:08.756Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T20:41:09.325Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T20:41:09.408Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T20:41:47.790Z"}
+{"level":"info","message":"Sent Facet Inquiries lead to Discord","timestamp":"2025-02-17T20:41:48.240Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T20:42:08.944Z"}
+{"level":"info","message":"Sent HomeAdvisor lead to Discord","timestamp":"2025-02-17T20:42:09.742Z"}
+{"level":"info","message":"Logged in as LeadFetch#3457","timestamp":"2025-02-17T20:47:51.604Z"}
+{"level":"info","message":"Starting email monitor...","timestamp":"2025-02-17T20:47:51.607Z"}
+{"level":"info","message":"IMAP connection established","timestamp":"2025-02-17T20:47:52.995Z"}
+{"level":"info","message":"Monitoring INBOX/Leads for new emails","timestamp":"2025-02-17T20:47:53.078Z"}
+{"level":"info","message":"1 new emails received","timestamp":"2025-02-17T20:48:37.314Z"}
+{"level":"info","message":"Sent HomeAdvisor lead to Discord","timestamp":"2025-02-17T20:48:37.923Z"}
