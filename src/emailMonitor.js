@@ -138,6 +138,7 @@ export class EmailMonitor {
 
       return info;
     }
+
     // Check if this is an Angi/HomeAdvisor lead
     if (emailText.includes("Customer Information")) {
       // Extract name - specific to Angi format
@@ -148,16 +149,18 @@ export class EmailMonitor {
 
       // Extract phone with extension
       const phoneMatch = emailText.match(
-        /href="tel:\/\/([^"]+)"[^>]*>([^<]+)<\/a>([^<]*)/
+        // /href="tel:\/\/([^"]+)"[^>]*>([^<]+)<\/a>([^<]*)/
+        /href="tel:\/\/([^"]+)"[^>]*>([^<]+)<\/a>(?:.*?|[\r\n])*?ext\s*(\d+)/i
       );
       if (phoneMatch) {
+        phoneMatch.forEach((m, i) => {
+          console.log(`Phone Match [${i}]`, m);
+        });
         let phone = phoneMatch[2];
         // If there's an extension, add it
         const extension = phoneMatch[3]?.trim();
-        if (extension && extension.toLowerCase().includes("ext")) {
-          phone += ` ${extension}`;
-        }
-        info.phone = phone;
+
+        info.phone = `${phone} ext: ${extension}`;
       }
 
       // Extract email - specific to Angi format
@@ -293,14 +296,14 @@ export class EmailMonitor {
           inline: true,
         },
         {
-          name: "📞 Phone",
-          value: leadInfo.phone || "Not provided",
-          inline: true,
-        },
-        {
           name: "📧 Email",
           value: leadInfo.email || "Not provided",
           inline: true,
+        },
+        {
+          name: "📞 Phone",
+          value: leadInfo.phone || "Not provided",
+          inline: false,
         },
       ],
       footer: {
